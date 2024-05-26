@@ -209,11 +209,6 @@
 
 
 @media(max-width: 1600px) {
-  .navigation-bar-dark-icon02 {
-    fill: #D9D9D9;
-    width: var(--dl-size-size-small);
-    height: var(--dl-size-size-small);
-  }
   .navigation-bar-dark-link11 {
     fill: var(--dl-color-custom-neutral-light);
     color: var(--dl-color-custom-neutral-light);

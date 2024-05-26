@@ -420,7 +420,7 @@
   font-weight: bold;
   padding-top: var(--dl-space-space-halfunit);
   white-space: nowrap;
-  border-color: transparent;
+  border-color: var(--dl-color-gray-white);
   padding-left: var(--dl-space-space-oneandhalfunits);
   border-radius: var(--dl-radius-radius-cardradius);
   padding-right: var(--dl-space-space-oneandhalfunits);
@@ -430,7 +430,7 @@
   fill: var(--dl-color-gray-700);
   color: var(--dl-color-gray-700);
   border: 1px solid;
-  border-color: transparent;
+  border-color: var(--dl-color-gray-700);
   border-width: 1px;
   background-color: transparent;
 }

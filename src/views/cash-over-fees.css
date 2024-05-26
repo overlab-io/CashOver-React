@@ -563,7 +563,6 @@
   }
   .cash-over-fees-text01 {
     font-size: 14px;
-    max-width: auto;
     margin-top: var(--dl-space-space-unit);
   }
   .cash-over-fees-row {

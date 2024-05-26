@@ -822,10 +822,6 @@
     margin-left: 0px;
     margin-right: 0px;
   }
-  .business-column01 {
-    padding-left: var(--dl-space-space-threeunits);
-    padding-right: var(--dl-space-space-threeunits);
-  }
   .business-title {
     font-size: 38px;
     text-transform: uppercase;
@@ -994,6 +990,7 @@
   }
   .business-column01 {
     flex: 1;
+    align-items: center;
     padding-top: 0px;
   }
   .business-text {
@@ -1006,6 +1003,8 @@
   }
   .business-subtitle {
     font-size: 16px;
+    max-width: 700px;
+    align-self: center;
     text-align: center;
   }
   .business-buttons {
@@ -1479,6 +1478,12 @@
     flex-direction: row;
     justify-content: center;
   }
+  .business-action1 {
+    font-size: 14px;
+  }
+  .business-action2 {
+    font-size: 14px;
+  }
   .business-icon {
     width: 24px;
   }
@@ -1518,9 +1523,11 @@
   }
   .business-text009 {
     right: 0px;
+    font-size: 28px;
   }
   .business-text013 {
     left: 0px;
+    font-size: 28px;
   }
   .business-row04 {
     flex-direction: column;

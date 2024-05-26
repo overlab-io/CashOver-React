@@ -46,10 +46,12 @@
   display: flex;
   padding: var(--dl-space-space-unit);
   align-self: stretch;
+  transition: 0.3s;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
+
 .faq-business-faq1-question {
   font-style: normal;
   text-align: center;
@@ -87,10 +89,12 @@
   display: flex;
   padding: var(--dl-space-space-unit);
   align-self: stretch;
+  transition: 0.3s;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
+
 .faq-business-faq2-question {
   font-style: normal;
   text-align: center;
@@ -126,10 +130,12 @@
   display: flex;
   padding: var(--dl-space-space-unit);
   align-self: stretch;
+  transition: 0.3s;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
+
 .faq-business-faq2-question1 {
   font-style: normal;
   text-align: center;
@@ -167,10 +173,12 @@
   display: flex;
   padding: var(--dl-space-space-unit);
   align-self: stretch;
+  transition: 0.3s;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
+
 .faq-business-faq2-question2 {
   font-style: normal;
   text-align: center;
@@ -208,10 +216,12 @@
   display: flex;
   padding: var(--dl-space-space-unit);
   align-self: stretch;
+  transition: 0.3s;
   align-items: center;
   flex-direction: row;
   justify-content: space-between;
 }
+
 .faq-business-faq1-question1 {
   font-style: normal;
   font-weight: 600;

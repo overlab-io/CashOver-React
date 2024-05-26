@@ -105,12 +105,6 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.footer-text03 {
-  fill: var(--dl-color-gray-700);
-  color: var(--dl-color-gray-700);
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .footer-navlink2 {
   fill: var(--dl-color-gray-700);
   color: var(--dl-color-gray-700);
@@ -126,6 +120,12 @@
 .footer-navlink4 {
   fill: var(--dl-color-gray-700);
   color: var(--dl-color-gray-700);
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.footer-navlink5 {
+  fill: var(--dl-color-gray-700);
+  color: var(--dl-color-gray-700);
   text-decoration: none;
 }
 .footer-company-container {
@@ -135,7 +135,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.footer-text04 {
+.footer-text03 {
   fill: var(--dl-color-custom-secondary1);
   color: var(--dl-color-custom-secondary1);
   font-weight: 700;
@@ -153,12 +153,6 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.footer-navlink5 {
-  fill: var(--dl-color-gray-700);
-  color: var(--dl-color-gray-700);
-  margin-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
-}
 .footer-navlink6 {
   fill: var(--dl-color-gray-700);
   color: var(--dl-color-gray-700);
@@ -166,6 +160,12 @@
   text-decoration: none;
 }
 .footer-navlink7 {
+  fill: var(--dl-color-gray-700);
+  color: var(--dl-color-gray-700);
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.footer-navlink8 {
   fill: var(--dl-color-gray-700);
   color: var(--dl-color-gray-700);
   text-decoration: none;
@@ -177,23 +177,23 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.footer-text05 {
+.footer-text04 {
   fill: var(--dl-color-custom-secondary1);
   color: var(--dl-color-custom-secondary1);
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.footer-text06 {
+.footer-text05 {
+  fill: var(--dl-color-gray-700);
+  color: var(--dl-color-gray-700);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.footer-text11 {
   fill: var(--dl-color-gray-700);
   color: var(--dl-color-gray-700);
   margin-bottom: var(--dl-space-space-unit);
 }
 .footer-text12 {
-  fill: var(--dl-color-gray-700);
-  color: var(--dl-color-gray-700);
-  margin-bottom: var(--dl-space-space-unit);
-}
-.footer-text13 {
   fill: var(--dl-color-gray-700);
   color: var(--dl-color-gray-700);
 }
@@ -210,7 +210,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.footer-text14 {
+.footer-text13 {
   fill: var(--dl-color-custom-secondary1);
   color: var(--dl-color-custom-secondary1);
   font-weight: 700;
@@ -239,7 +239,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.footer-text19 {
+.footer-text18 {
   fill: var(--dl-color-custom-secondary1);
   color: var(--dl-color-custom-secondary1);
   font-weight: 700;
